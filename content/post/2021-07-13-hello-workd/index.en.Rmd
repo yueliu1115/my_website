@@ -1,0 +1,39 @@
+---
+title: Hello Wrold
+author: LiuYueR
+date: '2021-07-13'
+slug: Hello Workd
+categories:
+  - R
+tags:
+  - R Markdown
+lastmod: '2021-07-13T17:47:55+08:00'
+keywords: []
+description: ''
+comment: no
+toc: no
+autoCollapseToc: no
+postMetaInFooter: no
+hiddenFromHomePage: no
+contentCopyright: no
+reward: no
+mathjax: no
+mathjaxEnableSingleDollar: no
+mathjaxEnableAutoNumber: no
+hideHeaderAndFooter: no
+flowchartDiagrams:
+  enable: no
+  options: ''
+sequenceDiagrams:
+  enable: no
+  options: ''
+---
+
+<!--more-->
+
+
+```{r}
+print("Hello World!")
+cat("Hello World")
+```
+
